@@ -20,7 +20,7 @@ var activeLetters = [];
 var len = alphabet.length;
 var randLetter = alphabet[Math.floor(Math.random() * len)];
 
-
+//On Start - 
 // Main Function
     document.onkeyup = function(event) {
         // Capture user input.
